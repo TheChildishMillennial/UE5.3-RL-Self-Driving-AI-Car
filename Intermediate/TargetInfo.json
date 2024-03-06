@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AI_SelfDrivingCar",
+			"Path": "..\\Source\\AI_SelfDrivingCar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AI_SelfDrivingCarEditor",
+			"Path": "..\\Source\\AI_SelfDrivingCarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

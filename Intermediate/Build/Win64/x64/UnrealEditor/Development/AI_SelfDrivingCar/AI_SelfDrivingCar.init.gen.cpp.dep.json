@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_selfdrivingcar\\uht\\ai_selfdrivingcar.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jdbea\\documents\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ai_selfdrivingcar\\definitions.ai_selfdrivingcar.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

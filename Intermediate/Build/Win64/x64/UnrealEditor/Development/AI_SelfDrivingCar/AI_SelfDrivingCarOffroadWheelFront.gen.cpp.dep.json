@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_selfdrivingcar\\uht\\ai_selfdrivingcaroffroadwheelfront.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jdbea\\documents\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ai_selfdrivingcar\\definitions.ai_selfdrivingcar.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\source\\ai_selfdrivingcar\\ai_selfdrivingcaroffroadwheelfront.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\source\\ai_selfdrivingcar\\ai_selfdrivingcarwheelfront.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\plugins\\experimental\\chaosvehiclesplugin\\source\\chaosvehicles\\public\\chaosvehiclewheel.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\simplevehicle.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\vehicleutility.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\enginesystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\vehiclesystemtemplate.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\transmissionsystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\suspensionsystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\wheelsystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\tiresystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\steeringsystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\steeringutility.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\aerodynamicssystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\aerofoilsystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\thrustsystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\arcadesystem.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\plugins\\experimental\\chaosvehiclesplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\chaosvehicles\\uht\\chaosvehiclewheel.generated.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_selfdrivingcar\\uht\\ai_selfdrivingcarwheelfront.generated.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_selfdrivingcar\\uht\\ai_selfdrivingcaroffroadwheelfront.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

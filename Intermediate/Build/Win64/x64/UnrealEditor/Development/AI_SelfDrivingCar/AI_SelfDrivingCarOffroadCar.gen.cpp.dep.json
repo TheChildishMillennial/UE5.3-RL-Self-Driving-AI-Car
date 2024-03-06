@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_selfdrivingcar\\uht\\ai_selfdrivingcaroffroadcar.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jdbea\\documents\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ai_selfdrivingcar\\definitions.ai_selfdrivingcar.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\source\\ai_selfdrivingcar\\ai_selfdrivingcaroffroadcar.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\source\\ai_selfdrivingcar\\ai_selfdrivingcarpawn.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\plugins\\experimental\\chaosvehiclesplugin\\source\\chaosvehicles\\public\\wheeledvehiclepawn.h",
+            "c:\\users\\jdbea\\documents\\unrealengine\\engine\\plugins\\experimental\\chaosvehiclesplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\chaosvehicles\\uht\\wheeledvehiclepawn.generated.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_selfdrivingcar\\uht\\ai_selfdrivingcarpawn.generated.h",
+            "g:\\ue5_projects\\ai_selfdrivingcar\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_selfdrivingcar\\uht\\ai_selfdrivingcaroffroadcar.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\UE5_Projects\\AI_SelfDrivingCar\\Source\\AI_SelfDrivingCar\\AI_SelfDrivingCar.Build.cs",
+		"G:\\UE5_Projects\\AI_SelfDrivingCar\\Source\\AI_SelfDrivingCar.Target.cs",
+		"G:\\UE5_Projects\\AI_SelfDrivingCar\\Source\\AI_SelfDrivingCarEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

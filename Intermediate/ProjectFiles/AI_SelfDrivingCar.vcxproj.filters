@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AI_SelfDrivingCar.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AI_SelfDrivingCar.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AI_SelfDrivingCarEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AI_SelfDrivingCar">
+      <UniqueIdentifier>{53508578-788B-3576-8CCC-86B908C1C9EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCar.Build.cs">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCar.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCar.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarGameMode.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarGameMode.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarOffroadCar.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarOffroadCar.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarOffroadWheelFront.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarOffroadWheelFront.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarOffroadWheelRear.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarOffroadWheelRear.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarPawn.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarPawn.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarPlayerController.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarPlayerController.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarSportsCar.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarSportsCar.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarSportsWheelFront.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarSportsWheelFront.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarSportsWheelRear.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarSportsWheelRear.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarUI.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarUI.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarWheelFront.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarWheelFront.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarWheelRear.cpp">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_SelfDrivingCar\AI_SelfDrivingCarWheelRear.h">
+      <Filter>Source\AI_SelfDrivingCar</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
